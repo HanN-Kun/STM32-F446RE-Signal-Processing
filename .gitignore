@@ -1,0 +1,37 @@
+# ==========================================
+# STM32CubeIDE & Eclipse Geçici/Derleme Dosyaları
+# ==========================================
+Debug/
+Release/
+build/
+.settings/
+*.launch
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.su
+*.d
+*.list
+
+# ==========================================
+# Python Geçici & Sanal Ortam Dosyaları
+# ==========================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.venv/
+*.log
+
+# ==========================================
+# İşletim Sistemi ve Editör Dosyaları
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
